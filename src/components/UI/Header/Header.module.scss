@@ -1,0 +1,11 @@
+@import "~@vars";
+
+.header {
+    padding: 10px;
+
+    background-color: $accent-color;
+
+    font-size: 20px;
+    color: $text-invert-color;
+    font-weight: 800;
+}
